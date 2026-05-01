@@ -1,2 +1,3 @@
-# Axio-Funded
-The best Crypto trading prop account.
+# Welcome to your Lovable project
+
+TODO: Document your project here
